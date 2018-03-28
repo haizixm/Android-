@@ -9,10 +9,4 @@ This is my respository for "Mobile application development - Android" homework. 
 | **Chapter 2  Activity**     |                                                      |
 | 2.1 Activity  cycle         | [点此进入](https://github.com/haizixm/Activitycycle) |
 |                             |                                                      |
-|                             |                                                      |
-|                             |                                                      |
-|                             |                                                      |
-|                             |                                                      |
-|                             |                                                      |
-|                             |                                                      |
 
